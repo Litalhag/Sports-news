@@ -1,5 +1,3 @@
-import SharedLayout from './SharedLayout'
-
 const About = () => {
   return (
     <>

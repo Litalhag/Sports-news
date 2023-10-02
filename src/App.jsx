@@ -1,8 +1,5 @@
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
-import SharedLayout from './pages/SharedLayout'
-import Home from './pages/Home'
-import About from './pages/About'
-import Article from './pages/Article'
+import { Home, About, Article, SharedLayout } from './pages'
 
 const router = createBrowserRouter([
   {

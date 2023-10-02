@@ -13,7 +13,7 @@ export const menuItems = [
 export const articlesWithTopImage = [
   {
     id: 1,
-    img: 'img/articles/ent1.jpg',
+    img: '/img/articles/ent1.jpg',
     category: 'Entertainment',
     title: 'Lorem ipsum dolor sit amet',
     description:
@@ -21,7 +21,7 @@ export const articlesWithTopImage = [
   },
   {
     id: 2,
-    img: 'img/articles/tech1.jpg',
+    img: '/img/articles/tech1.jpg',
     category: 'Technology',
     title: 'Lorem ipsum dolor sit amet',
     description:
@@ -29,7 +29,7 @@ export const articlesWithTopImage = [
   },
   {
     id: 3,
-    img: 'img/articles/tech2.jpg',
+    img: '/img/articles/tech2.jpg',
     category: 'Technology',
     title: 'Lorem ipsum dolor sit amet',
     description:
@@ -44,7 +44,7 @@ export const articlesWithBottomImage = [
     title: 'Lorem ipsum dolor sit amet',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quam eius ducimus optio veniam sit nihil beatae ea autem. Doloribus.',
-    img: 'img/articles/sports1.jpg',
+    img: '/img/articles/sports1.jpg',
   },
   {
     id: 5,
@@ -52,7 +52,7 @@ export const articlesWithBottomImage = [
     title: 'Lorem ipsum dolor sit amet',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quam eius ducimus optio veniam sit nihil beatae ea autem. Doloribus.',
-    img: 'img/articles/ent2.jpg',
+    img: '/img/articles/ent2.jpg',
   },
 ]
 
@@ -104,7 +104,7 @@ export const siteLinks = [
 export const articlesData = [
   {
     id: 1,
-    img: 'img/articles/ent1.jpg',
+    img: '/img/articles/ent1.jpg',
     category: 'Entertainment',
     title: 'Lorem ipsum dolor sit amet',
     description:
@@ -122,7 +122,7 @@ export const articlesData = [
   },
   {
     id: 3,
-    img: 'img/articles/tech1.jpg',
+    img: '/img/articles/tech1.jpg',
     category: 'Technology',
     title: 'Lorem ipsum dolor sit amet',
     description:
@@ -131,7 +131,7 @@ export const articlesData = [
   },
   {
     id: 4,
-    img: 'img/articles/sports1.jpg',
+    img: '/img/articles/sports1.jpg',
     category: 'Sports',
     title: 'Lorem ipsum dolor sit amet',
     description:
@@ -140,7 +140,7 @@ export const articlesData = [
   },
   {
     id: 5,
-    img: 'img/articles/tech2.jpg',
+    img: '/img/articles/tech2.jpg',
     category: 'Technology',
     title: 'Lorem ipsum dolor sit amet',
     description:
@@ -158,7 +158,7 @@ export const articlesData = [
   },
   {
     id: 7,
-    img: 'img/articles/ent2.jpg',
+    img: '/img/articles/ent2.jpg',
     category: 'Entertainment',
     title: 'Lorem ipsum dolor sit amet',
     description:

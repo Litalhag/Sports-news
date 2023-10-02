@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <nav id="main-nav">
       <div className="container">
-        <img src="img/logo.png" alt="NewsGrid" className="logo" />
+        <img src="/img/logo.png" alt="NewsGrid" className="logo" />
 
         <div className="social">
           {socialLinks.map(({ id, href, icon }) => (
@@ -18,7 +18,7 @@ function Navbar() {
         </div>
 
         <ul>
-          {menuItems.map(({ id, href, label, isCurrent }) => (
+          {menuItems.map(({ id, href, label }) => (
             <li key={id}>
               <NavLink
                 to={href}
